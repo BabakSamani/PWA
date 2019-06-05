@@ -1,0 +1,15 @@
+
+{
+    "articles": [
+      {
+        "source": {
+            "id": null,
+            "name": "N.A."
+            },
+        "title": "App fails to load the articles!",
+        "url": "",
+        "urlToImage": "./src/images/fetch-failed.png",
+        "description": "Try loading the page again when you're online."
+      }
+    ]
+  }
