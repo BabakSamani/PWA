@@ -1,0 +1,28 @@
+{
+  "name": "google_pwa",
+  "version": "1.0.0",
+  "description": "A simple progressive web application built from Google Workbox tool for retrieving news from different sources.  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BabakSamani/PWA.git"
+  },
+  "keywords": [
+    "Workbox",
+    "Google",
+    "PWA",
+    "Javascript"
+  ],
+  "author": "Babak Samani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BabakSamani/PWA/issues"
+  },
+  "homepage": "https://github.com/BabakSamani/PWA#readme",
+  "dependencies": {
+    "workbox-sw": "^4.3.1"
+  }
+}
